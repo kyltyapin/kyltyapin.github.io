@@ -1,7 +1,7 @@
 {
   "name": "KION",
   "version": "1.0.0",
-  "parameter": "content:request:interaction:init@https://kyltyapin.github.io/soft/start.json",
+  "parameter": "content:https://kyltyapin.github.io/soft/start.json",
   "pages": [
     {
       "headline": "Кинотеатр",
