@@ -1,0 +1,19 @@
+{
+  "name": "KION",
+  "version": "1.0.0",
+  "parameter": "content:request:interaction:init@https://kyltyapin.github.io/soft/start.json",
+  "pages": [
+    {
+      "headline": "Кинотеатр",
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,4,2",
+          "icon": "movie",
+          "label": "Открыть KION",
+          "action": "link:https://kion.ru"
+        }
+      ]
+    }
+  ]
+}
