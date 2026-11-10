@@ -1,0 +1,16 @@
+{
+  "type": "pages",
+  "headline": "Кинотеатр",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,4,2",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "KION",
+      "icon": "movie",
+      "action": "link:https://kion.ru"
+    }
+  ]
+}
